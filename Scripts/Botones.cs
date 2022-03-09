@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Botones : MonoBehaviour
 {
-    //Buenas noches, un lol?
     public void Salir()
     {
         Application.Quit();
